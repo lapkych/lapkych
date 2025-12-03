@@ -1,4 +1,4 @@
-```md
+
 # 💻 Градов Совачка
 
 ![Typing](https://readme-typing-svg.herokuapp.com?color=00FFCC&lines=Кодер+%7C+DevOps+%7C+Архитектор+решений;ZeroInc+System+Engineer;Только+чистый+код)

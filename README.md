@@ -3,9 +3,6 @@
 
 ![Typing](https://readme-typing-svg.herokuapp.com?color=00FFCC&lines=Кодер+%7C+DevOps+%7C+Архитектор+решений;ZeroInc+System+Engineer;Только+чистый+код)
 
-[![Bio](https://img.shields.io/badge/Bio-ZeroInc.tech-0A0A0A?style=for-the-badge&logo=matrix&logoColor=00FFCC)](https://bio.zeroinc.tech)
-[![Main](https://img.shields.io/badge/Main-ZeroInc.tech-0A0A0A?style=for-the-badge&logo=vercel&logoColor=00FFCC)](https://zeroinc.tech)
-[![Project](https://img.shields.io/badge/Project-CleanGram.tech-0A0A0A?style=for-the-badge&logo=telegram&logoColor=00FFCC)](https://cleangram.tech)
 
 ---
 

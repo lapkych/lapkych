@@ -1,5 +1,5 @@
 
-# 💻 Градов Совачка и или Femboy MSC
+# 💻 Лапыч и или Femboy MSC
 
 ![Typing](https://readme-typing-svg.herokuapp.com?color=00FFCC&lines=Кодер+%7C+DevOps+%7C+Архитектор+решений;ZeroInc+System+Engineer;Только+чистый+код)
 
@@ -28,9 +28,7 @@
 
 ## 🚀 Проекты
 
-- **[ZeroInc.tech](https://zeroinc.tech)** — экосистема для разработки и автоматизации  
-- **[Bio.ZeroInc.tech](https://bio.zeroinc.tech)** — интерактивное BIO в виде терминала с музыкой и настройками  
-- **[CleanGram.tech](https://cleangram.tech)** — высокопроизводительный Telegram API Optimizer  
+- занят другим
 
 ---
 
@@ -55,9 +53,7 @@ npm run build && next start
 ---
 
 ## 📡 Контакты
-[![Email](https://img.shields.io/badge/Email-gradov.sovochkin@zekilclient.ru-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FFCC)](mailto:gradov.sovochkin@zekilclient.ru)
-[![GitHub](https://img.shields.io/badge/GitHub-gradovsovachka-0A0A0A?style=for-the-badge&logo=github&logoColor=00FFCC)](https://github.com/gradovsovachka)
-[![Website](https://img.shields.io/badge/Website-bio.zeroinc.tech-0A0A0A?style=for-the-badge&logo=firefox&logoColor=00FFCC)](https://bio.zeroinc.tech)
+  временно недоступно
 
 ---
 
